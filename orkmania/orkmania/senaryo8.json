@@ -1,0 +1,29 @@
+{
+    "insan_imparatorlugu": {
+        "arastirma_seviyesi": {
+            "savunma_ustaligi": 2
+        },
+        "canavarlar": ["Agri_Dagi_Devleri"],
+        "birimler": {
+            "okcular": 190,
+            "piyadeler": 230,
+            "suvariler": 120,
+            "kusatma_makineleri": 8
+        },
+        "kahramanlar": ["Tugrul_Bey"]
+    },
+    "ork_legi": {
+        "kahramanlar": ["Ugar_Zalim"],
+        "canavarlar": ["Camur_Devleri"],
+        "arastirma_seviyesi": {
+            "saldiri_gelistirmesi": 2
+        },
+        "birimler": {
+            "ork_dovusculeri": 210,
+            "varg_binicileri": 130,
+            "mizrakcilar": 160,
+            "troller": 70
+        }
+    }
+    
+}

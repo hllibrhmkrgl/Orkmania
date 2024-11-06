@@ -1,0 +1,142 @@
+---------------------------ORK LEGI VE INSANLAR ARASINDA SURECEK CETIN SAVAS BASLADI!---------------------------
+
+BIRLIKLERIN BASLANGIC BILGILERI:
+insan saldiri total 220.000000
+insan savunma total : 154.000000
+ork saldiri total :225.500000
+ork savunma total:120.000000
+insan toplam saglik : 450.000000
+ork toplam saglik :520.000000
+
+
+ -----INSANLAR VURUYOR -----
+
+ --------1. ROUND--------
+insan saldiri total 220.000000
+insan savunma total : 154.000000
+insan net hasar:100.000000
+insan round : 1
+insan saglik : 450.000000 
+ork round : 0
+ork saglik :420.000000
+
+
+-----ORKLAR VURUYOR-----
+
+ --------2. ROUND--------
+ork saldiri total 225.500000
+ork savunma total : 120.000000
+ork net hasar:71.500000
+insan round : 1
+insan saglik : 378.500000 
+ork round : 1
+ork saglik :420.000000
+
+
+ -----INSANLAR VURUYOR -----
+
+ --------3. ROUND--------
+insan saldiri total 220.000000
+insan savunma total : 169.399994
+insan net hasar:100.000000
+insan round : 2
+insan saglik : 378.500000 
+ork round : 1
+ork saglik :320.000000
+
+
+-----ORKLAR VURUYOR-----
+
+ --------4. ROUND--------
+ork saldiri total 248.050003
+ork savunma total : 120.000000
+ork net hasar:78.650009
+insan round : 2
+insan saglik : 299.849976 
+ork round : 2
+ork saglik :320.000000
+
+
+ -----INSANLAR VURUYOR -----
+
+ --------5. ROUND--------
+insan saldiri total 220.000000
+insan savunma total : 186.340012
+insan net hasar:100.000000
+insan round : 3
+insan saglik : 299.849976 
+ork round : 2
+ork saglik :220.000000
+
+
+-----ORKLAR VURUYOR-----
+
+ --------6. ROUND--------
+ork saldiri total 226.143005
+ork savunma total : 110.500000
+ork net hasar:39.802994
+insan round : 3
+insan saglik : 260.046997 
+ork round : 3
+ork saglik :220.000000
+
+
+ -----INSANLAR VURUYOR -----
+
+ --------7. ROUND--------
+insan saldiri total 220.000000
+insan savunma total : 204.973999
+insan net hasar:109.500000
+insan round : 4
+insan saglik : 260.046997 
+ork round : 3
+ork saglik :110.500000
+
+
+-----ORKLAR VURUYOR-----
+
+ --------8. ROUND--------
+ork saldiri total 248.757294
+ork savunma total : 110.500000
+ork net hasar:43.783295
+insan round : 4
+insan saglik : 216.263702 
+ork round : 4
+ork saglik :110.500000
+
+
+ -----INSANLAR VURUYOR -----
+
+ --------9. ROUND--------
+insan saldiri total 220.000000
+insan savunma total : 225.471405
+insan net hasar:109.500000
+insan round : 5
+insan saglik : 216.263702 
+ork round : 4
+ork saglik :1.000000
+
+
+-----ORKLAR VURUYOR-----
+
+ --------10. ROUND--------
+ork saldiri total 273.633026
+ork savunma total : 110.500000
+ork net hasar:48.161621
+insan round : 5
+insan saglik : 168.102081 
+ork round : 5
+ork saglik :1.000000
+
+
+ -----INSANLAR VURUYOR -----
+
+ --------11. ROUND--------
+insan saldiri total 198.000000
+insan savunma total : 223.216705
+insan net hasar:87.500000
+insan round : 6
+insan saglik : 168.102081 
+ork round : 5
+ork saglik :0.000000
+

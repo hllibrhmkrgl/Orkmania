@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1729790840 source:c:\users\musta\desktop\rayldeneme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<raylib.h>
+	<time.h>
+
+1729790840 source:c:\users\musta\desktop\prolab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<raylib.h>
+	<time.h>
+
